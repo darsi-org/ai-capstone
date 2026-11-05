@@ -1,5 +1,8 @@
 # Capstone: an Arabic sentiment classifier, honestly tested
 
+
+> **Darsi briefs are short on purpose.** The in-app lesson shows tight numbered clicks. This README keeps the full commands, error fixes, and background for each milestone — open the matching **Milestone N** section when you need detail.
+
 Train a real classifier for Arabic reviews: a scikit-learn baseline, then a small Arabic BERT on free Colab, tracked with MLflow, studied for Egyptian-dialect mistakes, and shared as a Gradio demo with an honest model card.
 
 [العربية](README.ar.md)
