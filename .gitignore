@@ -7,4 +7,11 @@ __pycache__/
 secrets.py
 device/secrets.py
 mlruns/
+# MLflow's local database, and what the m3 notebook writes when you run it on your own computer
+mlflow.db
+checkpoints/
+model/
 darsi-check.json
+.pytest_cache/
+# About 7 MB, rebuilt the same by python fetch_data.py: no need to push it (data/split.json stays)
+data/reviews.csv

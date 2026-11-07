@@ -70,7 +70,7 @@ SPEC = json.loads(r'''{
   {
    "id": "m3",
    "en": "Milestone 3: A transformer, tracked with MLflow",
-   "ar": "المرحلة ٣: ترانسفورمر متتتبَّع بـ MLflow",
+   "ar": "المرحلة ٣: ترانسفورمر متتبَّع بـ MLflow",
    "checks": [
     {
      "type": "json",
